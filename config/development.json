@@ -1,0 +1,23 @@
+{
+  "version": "v2",
+  "name": "development",
+  "PORT": 5000,
+  "DB_NAME": "u811491364_givingtuesday1",
+  "DB_USER": "u811491364_givingtuesday1",
+  "DB_PASSWORD": "[EffTdH3n",
+  "DB_HOST": "185.201.11.212",
+  "SECRETEKEY" : "ThisISSEcreteKEyForJWT",
+  "TWITTER_API_KEY": "4baGA2L3FvhQtUZw9mlQ3pHOt",
+  "TWITTER_API_SECRET": "po9pM8DEzECT8jzqrBvVyuHTnz1T7QtkUobK01jbLgyK17pfeP",
+  "TWITTER_ACCESS_TOKEN": "1406148360080289805-apirH3xHt207qhLUYMUFf2FhEpsaNP",
+  "TWITTER_ACCESS_TOKEN_SECRET": "BtPvOuimZdsYjGPRNHkBG7s1fD6qGnrfWDiQRcpgFiOnJ",
+  "Service": "gmail",
+  "Port": 465,
+  "User": "asianfans2020@gmail.com",
+  "Password": "asianFan@2020",
+  "CLIENT_ID": "788278411882446",
+  "CLIENT_SECRET": "f440f7fd6d397dae779fc2a28c132be6",
+  "accessToken": "IGQVJXM1dCZA1ZAnMUhZAaUFsMW5ZAQlJBNHh3ZAWtTb3NUM1plNEJkLThydjdEQlpIYXdFNUFMVWFJeW5kZA0JLRGlZAYnZAwYmJvak9vY1RvNVlBQjJEZA25mbXpGQ3NRV0RFaG9D",
+  "HTTP_ACTIVATION_URL": "http://localhost:5000/",
+  "HTTP_RESET_URL":"http://localhost:5000/reset-password/"
+}
